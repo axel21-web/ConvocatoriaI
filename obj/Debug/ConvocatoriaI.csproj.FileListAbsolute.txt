@@ -1,0 +1,11 @@
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\bin\Debug\ConvocatoriaI.exe.config
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\bin\Debug\ConvocatoriaI.exe
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\bin\Debug\ConvocatoriaI.pdb
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.csprojAssemblyReference.cache
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.FNE.resources
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.Main.resources
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.Properties.Resources.resources
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.csproj.GenerateResource.cache
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.exe
+C:\Users\Sistemas-31\source\repos\ConvocatoriaI\obj\Debug\ConvocatoriaI.pdb
